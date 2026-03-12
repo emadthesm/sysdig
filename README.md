@@ -57,6 +57,7 @@ By no means are we saying you need to do these things. These are resources you m
 
 **Sysdig Docs** - https://docs.sysdig.com/
 
+
 **Kube Academy** - https://kube.academy/
 
 **Intro to Kubernetes** - https://acloudguru.com/course/introduction-to-kubernetes
